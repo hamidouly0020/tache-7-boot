@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('fond-de-baies-fraises-myrtille-framboises-36423142.webp');
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+}
+#pb-0{
+   width: 80px;
+    height: 40px;
+    text-align: center;
+    position: absolute;
+    bottom: -28px;
+    left: 38%;
+}
+#col-5{
+  position: absolute;
+  bottom: -80px;
+  left: 10%;
+}
+footer{
+    background-color: #471515;
+    margin-bottom: 0;
+}
+.col-6{
+    position: absolute;
+    bottom: -110px;
+    left: 10%;
+}
+#h1-1{
+    position: absolute;
+    left: 65%;
+    top: 300px;
+}
+#p1-1{
+    position: absolute;
+    bottom: -420px;
+    left: 4%;
+}
+/*#img-1{
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 23%;
+}*/
+#h1-2{
+    position: absolute;
+    bottom: -535px;
+    left: 12%;
+}
+#p1-2{
+    position: absolute;
+    bottom: -1460px;
+    left: 60%;
+}
+#h1-3{
+    position: absolute;
+    left: 80%;
+    top: 2100px;
+}
+#p1-3{
+    position: absolute;
+    bottom: -2220px;
+}
+#p1-4{
+    position: absolute;
+    bottom: -1050px;
+    left: 25%;
+}
